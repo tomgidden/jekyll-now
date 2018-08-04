@@ -1,0 +1,63 @@
+
+# Hello.
+
+First, my apologies: I know this site is weak. Sorry about that. I had a Wordpress-based site that I rarely
+updated, containing a lot of material that was rapidly becoming out-of-date.  I was tempted to take the
+interesting stuff and paste it here, but after reviewing I realised none of it was really relevant anymore.
+
+So, a clean start.
+
+On the other hand, I've got a lot of other things to do, so I haven't spent any effort doing this placeholder
+site either.  Please don't take the paucity of this site as a sign of what I'm capable of: I've made some very
+nice websites in the past, but it's part of my day job so doing some more of it for a site no-one's going to look at
+(except you) isn't exactly my highest priority.
+
+## About me
+
+I'm a geek living in Portishead, England, working at [Starberry](https://starberry.tv/) as their Chief Techie:
+a varied role, from strategic to technical, getting my hands dirty with development, architecture,
+documentation, training, operations, and just about a bit of everything really; working with a large team
+of talented developers and telling them they're doing it wrong, ie. not the way I'd do it.
+
+In my spare time, I geek out on various tech projects when I have the time, on a wide range of bits and pieces.
+I also watch a lot of movies.
+
+**Please don't bother contacting me if you want to recruit me or add me to a database of people you want to get
+other people to recruit: I'm happy where I'm working.**
+
+## Interesting (geek) stuff I'm doing
+
+* [I'm home-automating some things](https://medium.com/@gid/my-various-iot-hacks-275e6b4ce4dd); I've motorised a venetian blind with a servo and an Espruino; bed recline motors;
+lamps and monitors around the place; and all controlled from a web interface, various remote controls, buttons, etc.
+all feeding into a Raspberry Pi.
+
+* I've been 3D printing things with my [CEL Robox](http://www.cel-robox.com) which I was proud to beta-test.
+
+* I'm playing with various ideas using nRF51822, nRF52, ESP8266, ESP32, Atmel, ARM devices to do various Internet-of-Things things.
+  
+* I've built (and continue to rebuild) an anglepoise stand for my iPad Pro, the iPad-Hold-a-Tron 2000™, which is on its
+tenth iteration (or thereabouts) after being upgraded and repaired several times.
+
+* I've also experimented with three- and four-dimensional [Lyapunov fractals](https://www.flickr.com/photos/_gid/albums/72157627179038189),
+using OpenCL / OpenGL ray-casting programs of my own design; and [I keep threatening to write a paper on the subject](https://medium.com/@gid/exploring-lyapunov-space-b810a8bed153).
+
+* I also have some big tech ideas that I wish I had the time and stamina to develop further. They'd change the world
+if someone gave me some funding and a team of people to help do it.
+
+## More
+  
+* [Medium](https://medium.com/@gid/latest)... various posts/articles I've written, in lieu of installing a CMS.
+* [GitHub](https://github.com/tomgidden)... although nothing much there at the moment, to be honest.
+* [Twitter](https://twitter.com/tomgidden)... although I don't post much there anymore.
+* [Facebook](https://facebook.com/tom.gidden)... although I keep my friends list to people I know in real life.
+* [LinkedIn](https://uk.linkedin.com/in/tomgidden)... although I usually ignore stuff on there, as it's almost always recruiters.
+* [Flickr](http://flickr.com/_gid)... although I stopped posting photos there when I stopped carrying a camera with me.
+
+So yeah. I'm a ruddy social butterfly, me.  One of these days I might actually pad one of those out a bit. Don't hold your breath, though.
+
+Saying that, I'm very personable and friendly, and if you say Hi, I'll be happy to take time to talk... as long as you're not a
+recruiter or a spammer, of course.  I'm just apathetic about writing websites for "fun".
+
+In the meantime, here's a picture I drew on my iPad.
+
+[![Peter from Germany](https://pbs.twimg.com/media/CVjFZtiWcAAf8ho.jpg)](https://medium.com/@gid/miscellaneous-drawings-6d986dee024f)
