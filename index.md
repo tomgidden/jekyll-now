@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# Hello.
-
 This is my homepage, blog, site, or whatever you want to call it.
 I'm unlikely to post things here that often; I'm more likely to write on
 [Medium](https://medium.com/@gid/latest) or elsewhere.
