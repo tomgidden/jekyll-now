@@ -6,10 +6,10 @@
 name: Tom Gidden
 
 # Short bio or description (displayed in the header)
-description: 
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://en.gravatar.com/avatar/9483cce3d0477aa3bbc125b0a741e519?s=200
+avatar: https://en.gravatar.com/avatar/e9d41dcf0478130422647974f252ad64?s=200
 
 #
 # Flags below are optional
@@ -21,14 +21,14 @@ footer-links:
   email:
   facebook: tomgidden
   flickr: _gid
-  github: tomgidden/jekyll-now
+  github: tomgidden
   instagram: tomgidden
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: tomgidden
   stackoverflow: users/149044/gid
-  youtube: https://www.youtube.com/channel/UC2Gw2v9tBUDNd_OXvSW1NPg
+  youtube: channel/UC2Gw2v9tBUDNd_OXvSW1NPg
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
@@ -84,3 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - ._*
+  - .#*

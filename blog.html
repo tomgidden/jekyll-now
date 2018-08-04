@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<h1>
+  Hello.
+</h1>
+
+<p>
+  This is my homepage, blog, site, or whatever you want to call it.
+</p>
+
+<p>
+  I haven't got any blog posts here yet.  This page shouldn't really be
+  visible, but I've got nothing to hide.  Most of my recent writings have
+  ended up on <a href="https://medium.com/@gid/latest">Medium</a> instead.
+  However, if I do start managing my own blog, this is where it might end
+  up.
+</p>
+
+<p>
+  In the meantime, to find out more about me, it's probably worth checking
+  out <a href="/">the front page</a>.
+</p>
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
